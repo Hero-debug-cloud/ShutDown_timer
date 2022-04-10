@@ -1,0 +1,21 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:70vh;
+}
+.btn{
+    margin:0px 15px;
+    height:10vh;
+    width:8vw;
+}
+.days,.hours,.mins,.secs{
+    margin-bottom: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    letter-spacing: 0.3em;
+}
+.dis{
+    letter-spacing: 0.3em;
+}
